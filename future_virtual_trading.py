@@ -15,7 +15,7 @@ from pytz import timezone
 est = timezone('US/Eastern')
 
 
-from twilio.rest import Client
+from twilio.rest import Client tr
 
 # Your Account SID from twilio.com/console
 account_sid = "AC3899557667afcb2bbc20e9ebecf8befb"
